@@ -1,7 +1,11 @@
 Research Code
 =========
 
+This page is just a bit of data for you to get the gist of the data on my GitHub page if code has any value to you, you build it, study, modify to customise your applications. That process is a subject of various formal methods, treatise, endless forum posts which are beyond the scope of my current focus as exibited by my starring, watching, reading or tweeting about software...
 
+'Ad' infinitum
+
+Hints from GitHub itself of creating citable code, it helps https://guides.github.com/activities/citable-code/
 
 
 ##### This Github landing page was created using Dillinger a markdown editor:
