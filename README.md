@@ -6,6 +6,8 @@ This page is just a bit of data for you to get the gist of the data on my GitHub
 'Ad' infinitum
 
 Hints from GitHub itself of creating citable code, it helps https://guides.github.com/activities/citable-code/
+
+
 For the hyperactive coder or the average person who needs to do more with their time if they ever research there's code as a research object  http://mozillascience.org/code-as-a-research-object-a-new-project/
 ##### This Github landing page was created using Dillinger a markdown editor:
 
