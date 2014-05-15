@@ -6,10 +6,10 @@
     <title>Foundation | Welcome</title>
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/vendor/modernizr.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js">
-    </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="moment-with-langs.min.js"></script>
     <script type="text/javascript" src="FeedEk.js">
-    	
+    
     </script>
   </head>
   <body>
@@ -25,6 +25,19 @@
       	<div class="panel">
 	        <h3>We&rsquo;re stoked you want to try Foundation! </h3>
 	        <p>To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
+	        <p>
+	      	$('#divRss').FeedEk({
+		FeedUrl:'https://github.com/Spencerx.atom',
+		MaxCount : 11,
+		ShowDesc : true,
+		ShowPubDate:true,
+		DescCharacterLimit:100,
+		TitleLinkTarget:'_blank',
+		DateFormat: 'MM/DD/YYYY',
+		DateFormatLang:'en'
+		});
+	        	
+	        </p>
 	        <p>Once you've exhausted the fun in this document, you should check out:</p>
 	        <div class="row">
 	        	<div class="large-4 medium-4 columns">
