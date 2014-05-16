@@ -26,6 +26,9 @@ This text you see here is *actually* written in Markdown! To get a feel for Mark
 
 https://daringfireball.net/projects/markdown/
 
+
+'A style guide document formally describes methods and standards for developing robust, easily maintained and high-performance HTML, LESS, Sass and CSS code.' http://pburtchaell.com/styleguide/
+
 License
 ----
 
