@@ -29,7 +29,7 @@ https://daringfireball.net/projects/markdown/
 
 'A style guide document formally describes methods and standards for developing robust, easily maintained and high-performance HTML, LESS, Sass and CSS code.' http://pburtchaell.com/styleguide/
 
-A Hacker's guide to Git http://wildlyinaccurate.com/a-hackers-guide-to-git
+A Hacker's guide to Git, work in progress http://wildlyinaccurate.com/a-hackers-guide-to-git
 
 License
 ----
